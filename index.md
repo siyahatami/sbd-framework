@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Secure by Design Framework
-tags: Secure-by-design, Design-security, Architecture-security, architecture-review, design-review, design-security-review,
+tags: secure-by-design
 level: 2
 type: documentation
 pitch: The OWASP Secure-by-Design Framework provides practical guidance to embed security into software architecture from the start—long before code is written.
@@ -45,7 +45,7 @@ Modern systems are increasingly distributed, API-driven, and interconnected. Thi
 This project provides a structured, repeatable, and scalable way to align architecture decisions with proven security principles. It empowers:
 
 - **Architects and engineers** to make informed design choices with security built in.
-- **Security teams** to engage earlier, influencing system shape rather than reacting to flaws.
+- **AppSec teams** to engage earlier, influencing system shape rather than reacting to flaws.
 - **Organizations** to meet regulatory and customer trust expectations without slowing delivery.
 
 In short, it shifts security from reactive gatekeeping to proactive enablement, making it part of the natural flow of product design and evolution.
@@ -191,7 +191,7 @@ SbD Principles & Recommendations provide authoritative design-time guidance for 
 
 ## 🔹 SbD Review Checklist
 
-The SbD Review Checklist is a condensed, control-oriented tool for self-review and for communicating with AppSec. It ensures the security requirements are verified before implementation. Each item abstracts key recommendations from the principles into a Yes/No/N-A decision with justification. The full checklist appears on the **Checklist tab**; a CSV download is also provided there.
+The SbD Review Checklist is a condensed, control-oriented tool for self-review and for communicating with AppSec. It ensures the security requirements are verified before implementation. Each item abstracts key recommendations from the principles into a Yes/No/N-A decision with justification. The full checklist appears on the **Checklist tab**.
 
 ---
 
@@ -203,4 +203,4 @@ This is a living catalog of Secure-by-Design examples you can study and reuse. I
 
 ## 🔹 Links
 
-Download the full [Secure-by-Design Framework (PDF)](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true)
+Download the full [Secure-by-Design Framework (PDF)](https://github.com/OWASP/www-project-secure-by-design-framework/blob/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true) for easy offline use.
